@@ -7,9 +7,6 @@ A little bit about me, my name is Thien Toan Vu, I'm currently a third year CS s
 - 🔭 I’m currently working on creating my photography website
 - 🌱 I’m currently learning JavaScript, HTML, CSS, and Machine Learning
 - 📫 How to reach me: vuthien12316@gmail.com or [LinkedIn](https://www.linkedin.com/in/thien-vu-8a1b3a195/)
-- ⚡ Fun fact: I love riding a bike.   
->> Check out my bike, Greenie    
->>>> <img src ="Images/DSC00442.JPG" width = "100" height ="100">
 
 ### Languages And Tools   
 C++, Java, Python, C#, JavaScript, HTML, CSS, VSCode, Git
