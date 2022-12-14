@@ -1,9 +1,5 @@
 ## Chào bạn (Hello) 👋
-
-"Everyday is a great day to be alive," I hope you're having a great day so far.  
-A little bit about me, my name is Thien Toan Vu, I'm currently a third year CS student at UCI specializing in Inteligent Systems.
-
-
+A little bit about me, my name is Thien Vu, I'm currently a forth year CS student at UCI specializing in Inteligent Systems.
 - 🔭 I’m currently working on creating my photography website
 - 🌱 I’m currently learning JavaScript, HTML, CSS, and Machine Learning
 - 📫 How to reach me: vuthien12316@gmail.com or [LinkedIn](https://www.linkedin.com/in/thien-vu-8a1b3a195/)
