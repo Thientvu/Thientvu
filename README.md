@@ -8,15 +8,15 @@ A little bit about me, my name is Thien Toan Vu, I'm currently a third year CS s
 - 🌱 I’m currently learning JavaScript, HTML, CSS, and Machine Learning
 - 📫 How to reach me: vuthien12316@gmail.com or [LinkedIn](https://www.linkedin.com/in/thien-vu-8a1b3a195/)
 
-### Languages And Tools   
-C++, Java, Python, C#, JavaScript, HTML, CSS, VSCode, Git
-
 ### Project  
 **Web scraping GUI Application**
   - Built a desktop GUI application to scrape stock information on finance.yahoo.com  
   - Built an authentication system within the application
   - Saved data in a local database and encrypted all the information     
   - Implemented using Python, Tkinter, SQLite, Cryptography Fernet, Beautiful Soup and Requests
+
+### Languages And Tools   
+C++, Java, Python, C#, JavaScript, HTML, CSS, VSCode, Git
 
 
 <!--
