@@ -1,17 +1,21 @@
-## Chào bạn (Hello) 👋
+# Chào bạn (Hello) 👋
 A little bit about me, my name is Thien or Tee, I'm currently a forth year CS student at UCI specializing in Inteligent Systems.
-- 📫 How to reach me: vuthien12316@gmail.com
-<!--
-**Thientvu/thientvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: vuthien12316@gmail.com  
+## PROJECTS
+**CIFAR Experimentation**                                                                                            
+- Conducted comprehensive analysis on the CIFAR-10 dataset, utilizing four distinct classification techniques: KNN classification, logistic classification, Neural Network classification, and Convolutional Neural Network classification.
+- Developed and optimized models using prominent Python libraries such as NumPy, Pandas, Scikit-learn, and TensorFlow.
+- Employed matplotlib to explore and visually present the data, as well as to depict the obtained results.
+- Successfully achieved an accuracy of 73.6% on the test data by fine-tuning our CNN model.  
 
-Here are some ideas to get you started:
+**MineSweeper**                                                                                                               
+- Developed an AI Agent in C++ capable of playing and solving the classic Minesweeper game.
+- Achieved a success rate of 84.8% out of a total of 1000 sample trials on a 16x16 grid board, and 33.0% out of a total of 1000 sample trials on a 16x30 grid board.
+- Utilized RREF reduction to calculate the probability of potential moves for the agent when no obvious moves were available.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Scraping GUI Application**                                                                                
+- Developed a desktop GUI application using Python, Tkinter, and Beautiful Soup to scrape stock information from finance.yahoo.com, providing efficient tracking of my stock portfolio status.
+- Enhanced the application by implementing SQLite and Cryptography Fernet to establish an authentication system, ensuring data privacy. All data was securely saved and encrypted in a local database.
+## TECHNICAL SKILLS  
+Languages: Python, C++, C, C#, Java, JavaScript, HTML, CSS.  
+Tools/frameworks: MySQL, SQLite, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Git, VSCode. 
