@@ -1,5 +1,5 @@
 # Chào bạn (Hello) 👋
-A little bit about me, my name is Thien or Tee, I'm currently a forth year CS student at UCI specializing in Inteligent Systems.
+A little bit about me, my name is Thien or Tee. I'm currently a fourth-year Computer Science student at UCI with a deep interest in the fascinating fields of data analysis and machine learning. I truly believe in their potential to solve real-world problems through the transformative power of data and machine learning
 - 📫 How to reach me: vuthien12316@gmail.com  
 ## PROJECTS
 **CIFAR Experimentation**                                                                                            
